@@ -1,1 +1,10 @@
+* {
+    background-image: linear-gradient(120deg, #cf3939 0%, #9dff5b 100%);
+}
 
+h1 {
+    color:rgb(6, 124, 235);
+    position: absolute;
+    left: 300px;
+    top: 80px;
+} 
