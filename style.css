@@ -8,8 +8,10 @@
     color: rgb(0, 0, 0);
     font-family: "Poppins", sans-serif;
     min-height: 100vh;
-    left: 300px
   }
+  h1 {
+      left: 300px
+        }
   header {
     font-size: 2rem;
   }
